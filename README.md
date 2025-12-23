@@ -2,7 +2,7 @@
 
 Welcome to my personal repository for hands-on learning and inspired from the **"Machine Learning A-Z™: Hands-On Python & R In Data Science"** course on **Udemy**, created by **Kirill Eremenko, Hadelin de Ponteves, and the SuperDataScience Team**. This course is ideal for beginners, with no prior experience required.
 
-This repository contains well-organized Python scripts covering all major sections of Machine Learning.
+This repository contains well-organized Python scripts covering all major sections of Machine Learning that I have learned in my joourney so far.
 
 ---
 
@@ -42,6 +42,30 @@ Each folder corresponds to a separate subtopic with the code examples and datase
 21. **Upper Confidence Bound**
 22. **Thompson Sampling**
 
+### NLP
+23. Natural Language Processing
+
+### Deep Learning
+24. ANNs
+25. CNNs
+
+### Analysis and Model Selection
+26. PCA
+27. LDA
+28. Kernel PCA
+29. Model Selection
+
+### XGBoost
+30. XGBoost
+
+### RNNs
+31. LSTM
+32. GRU
+
+### Attention Mechanisms
+33. Self-Attention
+34. Transformers
+35. Multi-head Attention
 ---
 
 ## 📂 Folder Structure
