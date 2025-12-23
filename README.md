@@ -42,27 +42,27 @@ Each folder corresponds to a separate subtopic with the code examples and datase
 21. **Upper Confidence Bound**
 22. **Thompson Sampling**
 
-### NLP
+### 📝 NLP
 23. Natural Language Processing
 
-### Deep Learning
+### 🧠 Deep Learning
 24. ANNs
 25. CNNs
 
-### Analysis and Model Selection
+### 🔬 Analysis and Model Selection
 26. PCA
 27. LDA
 28. Kernel PCA
 29. Model Selection
 
-### XGBoost
+### ⚡ XGBoost
 30. XGBoost
 
-### RNNs
+### 🔁 RNNs
 31. LSTM
 32. GRU
 
-### Attention Mechanisms
+### 👀 Attention Mechanisms
 33. Self-Attention
 34. Transformers
 35. Multi-head Attention
