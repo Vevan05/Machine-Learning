@@ -74,4 +74,4 @@ To run any code:
   pip install numpy pandas matplotlib scikit-learn apyori scipy
   ```
 3. Run the scripts
-   Can be done using ```Google Colab``` or ```Jupyter Notebook```
+   (Can be done using ```Google Colab``` or ```Jupyter Notebook```)
