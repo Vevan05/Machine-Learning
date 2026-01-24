@@ -11,58 +11,58 @@ This repository contains well-organized Python scripts covering all major sectio
 Each folder corresponds to a separate subtopic with the code examples and datasets:
 
 ### 🔧 Preprocessing & Regression Models
-● **Data Preprocessing**
-● **Simple Linear Regression**
-● **Multiple Linear Regression**
-● **Polynomial Regression**
-● **Support Vector Regression**
-● **Decision Tree Regression**
-● **Random Forest Regression**
-● **Regression Model Selection**
+● **Data Preprocessing**  
+● **Simple Linear Regression**  
+● **Multiple Linear Regression**  
+● **Polynomial Regression**  
+● **Support Vector Regression**  
+● **Decision Tree Regression**  
+● **Random Forest Regression**  
+● **Regression Model Selection**  
 
 ### 📊 Classification Models
-● **Logistic Regression**
-● **KNN Classification**
-● **Support Vector Machine**
-● **Kernel Support Vector Machine**
-● **Naive Bayes**
-● **Decision Tree Classification**
-● **Random Forest Classification**
-● **Classification Model Selection**
+● **Logistic Regression**  
+● **KNN Classification**  
+● **Support Vector Machine**  
+● **Kernel Support Vector Machine**  
+● **Naive Bayes**  
+● **Decision Tree Classification**  
+● **Random Forest Classification**  
+● **Classification Model Selection**  
 
 ### 📈 Clustering
-● **KMeans Clustering**
-● **Hierarchical Clustering**
+● **KMeans Clustering**  
+● **Hierarchical Clustering**  
 
 ### 🛒 Association Rule Learning
-● **Apriori**
-● **Eclat**
+● **Apriori**  
+● **Eclat**  
 
 ### 🎯 Reinforcement Learning
-● **Upper Confidence Bound**
-● **Thompson Sampling**
+● **Upper Confidence Bound**  
+● **Thompson Sampling**  
 
 ### 📝 NLP
-● **Bag of Words**
+● **Bag of Words**  
 
 ### 🧠 Deep Learning
-● **ANNs**
-● **CNNs**
+● **ANNs**  
+● **CNNs**  
 
 ### 🔬 Analysis and Model Selection
-● **PCA**
-● **LDA**
-● **Kernel PCA**
-● **Model Selection**
+● **PCA**  
+● **LDA**  
+● **Kernel PCA**  
+● **Model Selection**  
 
 ### ⚡ Gradient Boosting
-● **XGBoost**
-● **CatBoost**
-● **LightGBM**
+● **XGBoost**  
+● **CatBoost**  
+● **LightGBM**  
 
 ### 🔁 RNNs
-● **LSTM**
-● **GRU**
+● **LSTM**  
+● **GRU**  
 
 ---
 
