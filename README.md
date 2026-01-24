@@ -69,7 +69,7 @@ Each folder corresponds to a separate subtopic with the code examples and datase
 ## 📂 Folder Structure
 
 Each folder contains:
-- Python scripts(`.py`)
+- Jupyter Notebooks(`.ipynb`)
 - Dataset (`data.csv`)
 
 ---
@@ -81,6 +81,8 @@ Each folder contains:
 - Scikit-Learn
 - Scipy
 - Apyori
+- Tensorflow
+- ntlk
 
 ## ⚙️ Getting Started
 
@@ -91,9 +93,5 @@ To run any code:
   git clone https://github.com/Vevan05/Machine-Learning.git
   cd Machine-Learning
   ```
-2. Install required packages
-  ```bash
-  pip install numpy pandas matplotlib scikit-learn apyori scipy
-  ```
-3. Run the scripts
+2. Run the notebooks
    (Can be done using ```Google Colab``` or ```Jupyter Notebook```)
