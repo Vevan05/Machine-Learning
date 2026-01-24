@@ -11,56 +11,58 @@ This repository contains well-organized Python scripts covering all major sectio
 Each folder corresponds to a separate subtopic with the code examples and datasets:
 
 ### 🔧 Preprocessing & Regression Models
-1. **Data Preprocessing**
-2. **Simple Linear Regression**
-3. **Multiple Linear Regression**
-4. **Polynomial Regression**
-5. **Support Vector Regression**
-6. **Decision Tree Regression**
-7. **Random Forest Regression**
-8. **Regression Model Selection**
+● **Data Preprocessing**
+● **Simple Linear Regression**
+● **Multiple Linear Regression**
+● **Polynomial Regression**
+● **Support Vector Regression**
+● **Decision Tree Regression**
+● **Random Forest Regression**
+● **Regression Model Selection**
 
 ### 📊 Classification Models
-9. **Logistic Regression**
-10. **KNN Classification**
-11. **Support Vector Machine**
-12. **Kernel Support Vector Machine**
-13. **Naive Bayes**
-14. **Decision Tree Classification**
-15. **Random Forest Classification**
-16. **Classification Model Selection**
+● **Logistic Regression**
+● **KNN Classification**
+● **Support Vector Machine**
+● **Kernel Support Vector Machine**
+● **Naive Bayes**
+● **Decision Tree Classification**
+● **Random Forest Classification**
+● **Classification Model Selection**
 
 ### 📈 Clustering
-17. **KMeans Clustering**
-18. **Hierarchical Clustering**
+● **KMeans Clustering**
+● **Hierarchical Clustering**
 
 ### 🛒 Association Rule Learning
-19. **Apriori**
-20. **Eclat**
+● **Apriori**
+● **Eclat**
 
 ### 🎯 Reinforcement Learning
-21. **Upper Confidence Bound**
-22. **Thompson Sampling**
+● **Upper Confidence Bound**
+● **Thompson Sampling**
 
 ### 📝 NLP
-23. **Bag of Words**
+● **Bag of Words**
 
 ### 🧠 Deep Learning
-24. **ANNs**
-25. **CNNs**
+● **ANNs**
+● **CNNs**
 
 ### 🔬 Analysis and Model Selection
-26. **PCA**
-27. **LDA**
-28. **Kernel PCA**
-29. **Model Selection**
+● **PCA**
+● **LDA**
+● **Kernel PCA**
+● **Model Selection**
 
 ### ⚡ Gradient Boosting
-30. **XGBoost**
+● **XGBoost**
+● **CatBoost**
+● **LightGBM**
 
 ### 🔁 RNNs
-31. **LSTM**
-32. **GRU**
+● **LSTM**
+● **GRU**
 
 ---
 
