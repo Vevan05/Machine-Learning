@@ -43,29 +43,25 @@ Each folder corresponds to a separate subtopic with the code examples and datase
 22. **Thompson Sampling**
 
 ### 📝 NLP
-23. Natural Language Processing
+23. **Bag of Words**
 
 ### 🧠 Deep Learning
-24. ANNs
-25. CNNs
+24. **ANNs**
+25. **CNNs**
 
 ### 🔬 Analysis and Model Selection
-26. PCA
-27. LDA
-28. Kernel PCA
-29. Model Selection
+26. **PCA**
+27. **LDA**
+28. **Kernel PCA**
+29. **Model Selection**
 
-### ⚡ XGBoost
-30. XGBoost
+### ⚡ Gradient Boosting
+30. **XGBoost**
 
 ### 🔁 RNNs
-31. LSTM
-32. GRU
+31. **LSTM**
+32. **GRU**
 
-### 👀 Attention Mechanisms
-33. Self-Attention
-34. Transformers
-35. Multi-head Attention
 ---
 
 ## 📂 Folder Structure

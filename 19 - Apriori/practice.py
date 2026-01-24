@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1rvSqAj1esL4PD16DRWHAWtbCyF3Sz4hw
 """
 
-!pip install apyori
+# !pip install apyori
 
 import numpy as np
 import matplotlib.pyplot as plt
