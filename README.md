@@ -42,18 +42,19 @@ Each folder corresponds to a separate subtopic with the code examples and datase
 ● **Upper Confidence Bound**  
 ● **Thompson Sampling**  
 
-### 📝 NLP
+### 📝 Natural Language Processing
 ● **Bag of Words**  
+● **TF-IDF**
 
 ### 🧠 Deep Learning
 ● **ANNs**  
 ● **CNNs**  
+● **RNNs**
 
-### 🔬 Analysis and Model Selection
+### 🔬 Dimensionality Reduction and Model Selection
 ● **PCA**  
 ● **LDA**  
-● **Kernel PCA**  
-● **Model Selection**  
+● **Kernel PCA** 
 
 ### ⚡ Gradient Boosting
 ● **XGBoost**  
