@@ -47,13 +47,13 @@ Each folder corresponds to a separate subtopic with the code examples and datase
 ● **TF-IDF**
 
 ### 🧠 Deep Learning
-● **ANNs**  
-● **CNNs**  
-● **RNNs**
+● **Artificial Neural Networks**  
+● **Convolutional Neural Networks**  
+● **Recurrent Neural Networks**
 
 ### 🔬 Dimensionality Reduction and Model Selection
-● **PCA**  
-● **LDA**  
+● **Principal Component Analysis**  
+● **Linear Discriminant Analysis**  
 ● **Kernel PCA** 
 
 ### ⚡ Gradient Boosting
@@ -62,8 +62,8 @@ Each folder corresponds to a separate subtopic with the code examples and datase
 ● **LightGBM**  
 
 ### 🔁 RNNs
-● **LSTM**  
-● **GRU**  
+● **Long Short-Term Memory (LSTM)**  
+● **Gated Recurrent Unit (GRU)**  
 
 ---
 
