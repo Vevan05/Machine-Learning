@@ -45,6 +45,7 @@ Each folder corresponds to a separate subtopic with the code examples and datase
 ### 📝 Natural Language Processing
 ● **Bag of Words**  
 ● **TF-IDF**
+● **N-grams**
 
 ### 🧠 Deep Learning
 ● **Artificial Neural Networks**  
