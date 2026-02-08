@@ -84,7 +84,8 @@ Each folder contains:
 - Scipy
 - Apyori
 - Tensorflow
-- ntlk
+- NLTK
+- Math, Random, string
 
 ## ⚙️ Getting Started
 
