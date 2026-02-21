@@ -46,7 +46,8 @@ Each folder corresponds to a separate subtopic with the code examples and datase
 ● **Bag of Words**  
 ● **TF-IDF**  
 ● **N-grams**  
-● **Word2Vec**
+● **Word2Vec**  
+● **GloVe**
 
 ### 🧠 Deep Learning
 ● **Artificial Neural Networks**  
