@@ -49,6 +49,7 @@ Each folder corresponds to a separate subtopic with the code examples and datase
 ● **Word2Vec**  
 ● **GloVe**  
 ● **FastText**
+● **Doc2Vec**
 
 ### 🧠 Deep Learning
 ● **Artificial Neural Networks**  
