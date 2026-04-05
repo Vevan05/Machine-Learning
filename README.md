@@ -33,6 +33,7 @@ Each folder corresponds to a separate subtopic with the code examples and datase
 ### 📈 Clustering
 ● **KMeans Clustering**  
 ● **Hierarchical Clustering**  
+● **DBSCAN Clustering**  
 
 ### 🛒 Association Rule Learning
 ● **Apriori**  
