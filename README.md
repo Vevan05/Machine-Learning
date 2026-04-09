@@ -38,6 +38,7 @@ Each folder corresponds to a separate subtopic with the code examples and datase
 ### 🛒 Association Rule Learning
 ● **Apriori**  
 ● **Eclat**  
+● **FP Growth**  
 
 ### 🎯 Reinforcement Learning
 ● **Upper Confidence Bound**  
